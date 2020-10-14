@@ -1,3 +1,3 @@
 # hello-world
 Just another repository 
-分支修改及合并测试
+用来测试分支及合并功能
